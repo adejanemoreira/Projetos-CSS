@@ -6,4 +6,6 @@ Parallax
 ![image](https://user-images.githubusercontent.com/93550467/210151945-3a882663-9081-4fb8-bb26-3ea69d84aa3c.png)
 LandingPage
 ![image](https://user-images.githubusercontent.com/93550467/210152041-db5d9d95-b348-4d23-9780-55e8bc95cfa6.png)
+LandingPageStartups
+![image](https://user-images.githubusercontent.com/93550467/210152196-84168fda-fee4-40ec-a81e-546bed7df0b6.png)
 
